@@ -1,0 +1,8 @@
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\jackh\Documents\Visual Studio 2022\Projects\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
